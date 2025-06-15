@@ -22,6 +22,8 @@ public class MirroringAreaController : MonoBehaviour
     [SerializeField]
     private LevelController _levelController;
 
+    public AudioSource mirrorAudio;
+
     private void Update()
     {
         Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -33,11 +35,13 @@ public class MirroringAreaController : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0) && _levelController.AttemptMirror())
         {
+            mirrorAudio.Play();
             MirrorHorizontally(mousePos);
         }
 
         if (Input.GetMouseButtonDown(1) && _levelController.AttemptMirror())
         {
+            mirrorAudio.Play();
             MirrorVertically(mousePos);
         }
     }

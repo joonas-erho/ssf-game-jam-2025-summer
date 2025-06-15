@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6c76bf469bfd464a92657b55b1cb00a, type: 3}
   m_Name: Wisp
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -3060860264690402885, guid: 725a368493f53ef4fa6e9ad9461546d2, type: 3}
+  m_Sprite: {fileID: -2125520938262828504, guid: 75787a1e20290f64da22b48ca7e7be49, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

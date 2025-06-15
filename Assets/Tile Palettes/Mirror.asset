@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6c76bf469bfd464a92657b55b1cb00a, type: 3}
   m_Name: Mirror
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -1798122089359741662, guid: 906f6c6b0c84f24419e0df3a1fc4f4e7, type: 3}
+  m_Sprite: {fileID: -6304709215835791635, guid: 12297d8d4607552429f5702e6e2afdba, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

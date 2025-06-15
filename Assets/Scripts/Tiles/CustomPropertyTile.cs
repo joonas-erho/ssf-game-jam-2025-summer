@@ -7,7 +7,8 @@ public enum TileType
     ENEMY,
     SCOREITEM,
     ADDITIONALMIRROR,
-    MIRRORSHARD
+    MIRRORSHARD,
+    DANGER
 }
 
 [CreateAssetMenu(fileName = "CustomPropertyTile", menuName = "Tiles/CustomPropertyTile")]

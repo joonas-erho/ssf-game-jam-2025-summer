@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Testblock
+  m_Name: DoubleTile1
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -3033796694828146412, guid: afc6f27f8d7c4164ab820f019d87cccc, type: 3}
+  m_Sprite: {fileID: -101787364, guid: 1c6c3cf9ae4ed72419781251db50c73f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
